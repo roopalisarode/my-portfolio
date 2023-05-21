@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Developed a responsive Next.js website styled with Bootstrap integrating Google Analytics and Mailchimp for user tracking and engagement.",
     image: "./project_placeholder.jpg",
-    link: "https://roopalisarode.github.io/mywebclass-simulation/",
+    link: "https://njit-wis.github.io/project-2-team-dry/",
   },
   {
     title: "Vehicle detection and tracking using Gaussian Mixture model",
