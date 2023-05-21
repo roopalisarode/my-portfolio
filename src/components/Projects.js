@@ -12,7 +12,7 @@ export default function Projects() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Projects
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-justify">
             The following are a collection of projects that I have undertaken as part of my academic curriculum and personal development, with the aim of acquiring new skills in programming languages and technologies.
           </p>
         </div>
@@ -35,7 +35,7 @@ export default function Projects() {
                   <h1 className="title-font text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
-                  <p className="leading-relaxed">{project.description}</p>
+                  <p className="leading-relaxed text-justify">{project.description}</p>
                 </div>
               </div>
             </a>

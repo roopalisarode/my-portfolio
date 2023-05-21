@@ -11,7 +11,7 @@ export default function Experience() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Work Experience
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-justify">
             Presented herewith is a detailed overview of my professional work experience, highlighting my past roles and responsibilities, along with the corresponding achievements and contributions made during my tenure.
           </p>
         </div>

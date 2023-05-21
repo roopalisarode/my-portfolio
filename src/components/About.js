@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-justify">
             I am proactive computer science professional holding a master's degree in Computer Science and possessing over three years of experience in various programming languages and IT tools. 
             I have developed a strong proficiency in Python, Java, C++, SQL, React, Node.js, HTML, CSS, and JavaScript, enabling me to create innovative software solutions that drive business success. 
             Throughout my career, I have consistently delivered exceptional results and now I am excited to secure a challenging full-time opportunity in software development or engineering, where I can make a meaningful impact. 
