@@ -11,7 +11,7 @@ export default function Skills() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Skills &amp; Technologies
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-justify">
             Below is a comprehensive inventory of the proficiencies I possess in terms of both technical skills and advanced technologies.
           </p>
         </div>
