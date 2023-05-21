@@ -11,10 +11,11 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a proactive computer science student with over three years of experience in various programming languages and IT tools. 
-            My expertise in Python, Java, C++, SQL, React, Node.js, HTML, CSS, and JavaScript has enabled me to create innovative software solutions that drive business success.
-            I am pursuing an MS in Computer Science and have a proven track record of delivering exceptional results. 
-            I am seeking a challenging full-time opportunity in software development or engineering to make a meaningful impact.
+            I am proactive computer science professional holding a master's degree in Computer Science and possessing over three years of experience in various programming languages and IT tools. 
+            I have developed a strong proficiency in Python, Java, C++, SQL, React, Node.js, HTML, CSS, and JavaScript, enabling me to create innovative software solutions that drive business success. 
+            Throughout my career, I have consistently delivered exceptional results and now I am excited to secure a challenging full-time opportunity in software development or engineering, where I can make a meaningful impact. 
+            With my strong technical acumen and dedicated work ethic, I am confident in my ability to contribute effectively to your team. 
+            I invite you to connect with me so that we can explore how I can bring fresh perspectives and a proactive mindset to create remarkable software solutions that truly make a difference.
           </p>
           <div className="flex justify-center">
             <a
