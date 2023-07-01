@@ -18,7 +18,7 @@ const Experience = ({user}) => {
         <div className="flex flex-wrap -m-4">          
           {user && user.work.map((e) => (
             <div key={e.name} className="p-4 w-full">
-              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded text-justify">
                 <div className="flex justify-between items-center mb-3">
                   <h2 className="text-white text-lg title-font font-medium">
                     {e.name}, {e.location}
