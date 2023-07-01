@@ -17,6 +17,10 @@ const Contact = ({user}) => {
         )
         .join("&");
     }
+
+    function refreshPage(){ 
+      window.location.reload(); 
+    }
   
     function handleSubmit(e) {
       e.preventDefault();
@@ -26,6 +30,7 @@ const Contact = ({user}) => {
         body: encode({ "form-name": "contact", name, email, message }),
       })
         .then(() => alert("Message sent!"))
+        .then(() => refreshPage())
         .catch((error) => alert(error));
     }
   
