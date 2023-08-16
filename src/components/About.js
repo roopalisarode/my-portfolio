@@ -30,7 +30,7 @@ const About = ({user}) => {
           <img
             className="object-cover object-center rounded"
             alt="profile_photo"
-            src="./profile_photo.jpg"
+            src="./display_pic.gif"
           />
         </div>
       </div>
